@@ -12,7 +12,7 @@
     },
     "additionalEventData": {
       "managedRuleIdentifier": [
-        "S3_DEFAULT_ENCRYPTION_KMS",
+        "S3_DEFAULT_ENCRYPTION_KMS"
       ]
     }
   }
